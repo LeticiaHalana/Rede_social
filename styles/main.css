@@ -1,0 +1,43 @@
+.main_sugestao{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 108px;
+    padding: 50px;
+}
+
+section{
+    width: 70%;
+}
+anside{
+    width: 30%;
+}
+h2{
+    color: var(--gray1);
+}
+h3{
+    color: var(--gray3);
+}
+.img{
+    border-radius: 50%;
+    object-fit: cover;
+}
+.novoPost{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.usuario{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.comentarios{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 70%;
+    gap: 20px;
+    margin-top: 20px;
+}
