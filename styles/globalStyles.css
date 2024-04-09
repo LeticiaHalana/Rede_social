@@ -75,15 +75,16 @@
 .input_textarea {
     border: 2px solid var(--gray4);
     background-color: transparent;
-    padding: 5px;
+    padding: 10px;
     border-radius: 5px;
 }
 
 .input_text:focus,
 .input_textarea:focus {
+    outline: none;
     border: 2px solid var(--brand-1);
-    background-color: transparent;
-    padding: 5px;
+
+    
 }
 
 ::-webkit-input-placeholder {
@@ -99,6 +100,7 @@
     background-color: var(--brand-1);
     border: none;
     border-radius: 2px;
+    padding:  5px 10px;
     cursor: pointer;
 }
 
