@@ -84,7 +84,7 @@
     outline: none;
     border: 2px solid var(--brand-1);
 
-    
+
 }
 
 ::-webkit-input-placeholder {
@@ -100,7 +100,7 @@
     background-color: var(--brand-1);
     border: none;
     border-radius: 2px;
-    padding:  5px 10px;
+    padding: 5px 10px;
     cursor: pointer;
 }
 
@@ -134,15 +134,16 @@
 
 .button_outline {
     color: var(--gray0);
-    border: 2px solid var(--gray0);
+    border: 1px solid var(--gray0);
     background-color: var(--whiteFixed);
+    padding: 5px 10px;
     border-radius: 2px;
     cursor: pointer;
 }
 
 .button_outline:hover {
     color: var(--brand-1);
-    border: 2px solid var(--brand-1);
+    border: 1px solid var(--brand-1);
     background-color: #7f97f7;
 }
 
