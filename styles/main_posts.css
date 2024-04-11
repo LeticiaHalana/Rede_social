@@ -1,0 +1,22 @@
+.posts{
+    padding: 10px 80px 0px 80px;
+    width: 45%;
+}
+
+.usuario_postados{
+    display: flex;
+    align-items: center;
+    padding: 20px 0px 10px 0px;
+    gap: 10px;
+}
+
+.title_postado{
+    font-size: 0.938rem;
+}
+.text_postato{
+    font-size: 0.625rem;
+}
+
+.post{
+    padding: 10px 0px 10px 0px  ;
+}

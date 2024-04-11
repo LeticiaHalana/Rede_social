@@ -1,5 +1,6 @@
 @import url(globalStyles.css);
-@import url(main.css);
+@import url(main_input.css);
+@import url(main_posts.css);
 
 header {
     position: fixed;

@@ -144,7 +144,7 @@
 .button_outline:hover {
     color: var(--brand-1);
     border: 1px solid var(--brand-1);
-    background-color: #7f97f7;
+    background-color: #dde2f7;
 }
 
 .button_outline:focus {
