@@ -1,22 +1,41 @@
-.posts{
+.posts {
     padding: 10px 80px 0px 80px;
     width: 45%;
 }
 
-.usuario_postados{
+.usuario_postados {
     display: flex;
     align-items: center;
     padding: 20px 0px 10px 0px;
     gap: 10px;
 }
 
-.title_postado{
+.title_postado {
     font-size: 0.938rem;
 }
-.text_postato{
+
+.text_postato {
     font-size: 0.625rem;
 }
 
-.post{
-    padding: 10px 0px 10px 0px  ;
+.post {
+    padding: 10px 0px 10px 0px;
+}
+
+.button_postado {
+    padding: 10px 10px;
+    margin: 20px 0px 20px 0px;
+    display: flex;
+}
+
+.button_flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.ativado {
+    display: none;
 }

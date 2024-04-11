@@ -112,7 +112,7 @@
     color: var(--whiteFixed);
     background-color: var(--gray1);
     border: none;
-    border-radius: 2px;
+    border-radius: 5px;
     cursor: pointer;
 }
 
