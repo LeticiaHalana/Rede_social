@@ -37,5 +37,8 @@
 }
 
 .ativado {
+    display: flex;
+}
+.desativado{
     display: none;
 }
