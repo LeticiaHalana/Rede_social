@@ -24,7 +24,7 @@
 
 .button_postado {
     padding: 10px 10px;
-    margin: 20px 0px 20px 0px;
+    margin: 20px 20px 20px 0px;
     display: flex;
 }
 
@@ -33,7 +33,6 @@
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
-    gap: 20px;
 }
 
 .ativado {
@@ -42,3 +41,8 @@
 .desativado{
     display: none;
 }
+
+.like_number{
+    margin-left: 5px;
+}
+
