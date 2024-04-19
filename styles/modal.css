@@ -1,0 +1,25 @@
+.fechar{
+    background-image: url(/img/icons8-x-24.png);
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 20px;
+    background-color: transparent;
+    border: none;
+    background-size: contain;
+    cursor: pointer;
+    position: absolute;
+    left: 95%;
+}
+
+.pop-up{
+    padding: 15px 25px 15px 25px;
+    border: none;
+    border-radius: 8px;
+    width: 50%;
+    position: fixed;
+    top: 25%;
+    left: 25%;
+}
+dialog::backdrop{
+    background-color: rgba(0, 0, 0, 0.5);
+}

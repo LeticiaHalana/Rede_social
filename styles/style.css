@@ -1,6 +1,7 @@
 @import url(globalStyles.css);
 @import url(main_input.css);
 @import url(main_posts.css);
+@import url(modal.css);
 
 header {
     position: fixed;
