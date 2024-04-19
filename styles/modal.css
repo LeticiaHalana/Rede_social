@@ -8,7 +8,9 @@
     background-size: contain;
     cursor: pointer;
     position: absolute;
+    top: 5%;
     left: 95%;
+
 }
 
 .pop-up{
