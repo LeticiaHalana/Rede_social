@@ -14,7 +14,6 @@ for (let i = 0; i < modal.length; i++) {
     })
 
     button_fechar.addEventListener("click", () => {
-        console.log(123);
         dialog.close();
     })
 }
