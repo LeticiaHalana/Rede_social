@@ -2,6 +2,7 @@
 @import url(main_input.css);
 @import url(main_posts.css);
 @import url(modal.css);
+@import url(media.css);
 
 header {
     position: fixed;

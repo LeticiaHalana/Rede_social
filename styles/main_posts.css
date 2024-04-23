@@ -38,11 +38,11 @@
 .ativado {
     display: flex;
 }
-.desativado{
+
+.desativado {
     display: none;
 }
 
-.like_number{
+.like_number {
     margin-left: 5px;
 }
-
